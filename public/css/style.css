@@ -1,0 +1,30 @@
+*, html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "roboto"; }
+
+body {
+  background-color: #efefef; }
+
+.card-holder {
+  margin-top: 5vh; }
+
+.card {
+  box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
+  border-radius: 10px; }
+
+.card-body .scroll {
+  overflow-y: scroll;
+  height: 40vh; }
+
+.scroll-bottom {
+  overflow-y: scroll;
+  height: 30vh; }
+
+.card-list {
+  height: 50vh; }
+
+.card-bottom {
+  height: 40vh; }
+
+/*# sourceMappingURL=style.css.map */
